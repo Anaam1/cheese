@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
+
+body{ 
+    margin: 0
+}
+
+
+}
+
+.container {
+    position: relative;
+    text-align: center
+    color: #ad0917;
+}
+
+.centered{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+
+
+.center{text-align: center}
+        
+*{
+    font-family: Georgia, serif;
+    font-size: 35px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #AD0917;
+    font-weight: normal;/*  */
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: capitalize;
+}
+
+
+.first
+{
+    display: flexbox;
+}
+
+h1{   color: peru;
+    color:brown;
+}
+
+.large{
+    font-size: 40px;
+}
+
+
+.center{
+    text-align: center;
+
+}
+
+.main{
+    margin: 30px;
+}
+
+
+h2{
+    color: darkorange;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(148, 138, 130, 0.89);
+    color: rgb(10, 0, 0);
+    text-align: center;
+}
